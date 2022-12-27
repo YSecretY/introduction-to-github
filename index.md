@@ -7,3 +7,6 @@
 secret@Secrets-MacBook-Air task % git init
 
 Initialized empty Git repository in /Users/secret/Desktop/task/.git/
+
+- [ ] unchecked member of the list
+- [x] checked member of the list
